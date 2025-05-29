@@ -31,7 +31,7 @@ To identify which factors are most strongly associated with lung cancer using ex
 - **Seaborn** / **Matplotlib** – for static visualizations
 - **Plotly** – for interactive charts
 - **Jupyter Notebook** – development environment
-
+- **XGBoost**
 | Category                        | Tools / Libraries                                           |
 | ------------------------------- | ----------------------------------------------------------- |
 | **Language**                    | Python                                                      |
